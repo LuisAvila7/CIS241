@@ -1,3 +1,3 @@
 # CIS241
-Hello World!
+My first GitHub web site
 Luis Corona
